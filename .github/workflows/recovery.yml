@@ -15,11 +15,11 @@ on:
 
 env:
   MANIFEST: git://github.com/SKYHAWK-Recovery-Project/platform_manifest_twrp_omni.git -b android-9.0
-  DEVICE: rosy
-  DT_LINK: https://github.com/JamieHoSzeYui/android_recovery_xiaomi_rosy
-  DT_PATH: device/xiaomi/rosy
-  KERNEL_LINK: https://github.com/Pulkit077/kernel_xiaomi_rosy
-  KERNEL_PATH: kernel/xiaomi/rosy
+  DEVICE: cd8j
+  DT_LINK: https://github.com/samuelKuseka/TECNO-CD8J-RECOVERY-TREE
+  DT_PATH: device/tecno/cd8j
+  KERNEL_LINK: https://github.com/samuelKuseka/TECNO-CD8J-RECOVERY-TREE
+  KERNEL_PATH: kernel/tecno/cd8j
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
